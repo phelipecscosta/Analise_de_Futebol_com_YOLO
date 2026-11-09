@@ -1,0 +1,26 @@
+{
+  "video": "dados\\videos\\seg1\\seg1_30fps.mp4",
+  "modelo": "yolov8s.pt",
+  "device": "cuda",
+  "fps": 30.0,
+  "largura": 1280,
+  "altura": 720,
+  "n_frames": 900,
+  "inicio_s": 0.0,
+  "imgsz": 1280,
+  "conf": 0.3,
+  "conf_bola": 0.1,
+  "fps_processamento": 18.13946699712906,
+  "times_bgr": {
+    "0": [
+      127,
+      127,
+      145
+    ],
+    "1": [
+      163,
+      125,
+      96
+    ]
+  }
+}

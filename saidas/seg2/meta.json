@@ -1,0 +1,54 @@
+{
+  "video": "dados\\videos\\seg2\\seg2_30fps.mp4",
+  "modelo": "yolov8m.pt",
+  "device": "cuda",
+  "fps": 30.0,
+  "largura": 1280,
+  "altura": 720,
+  "n_frames": 1561,
+  "inicio_s": 0.0,
+  "imgsz": 1280,
+  "conf": 0.3,
+  "conf_bola": 0.1,
+  "fps_processamento": 13.489411487317565,
+  "times_bgr": {
+    "0": [
+      85,
+      62,
+      98
+    ],
+    "1": [
+      97,
+      150,
+      160
+    ],
+    "-2": [
+      128,
+      112,
+      69
+    ]
+  },
+  "times_bgr_original": {
+    "0": [
+      85,
+      62,
+      98
+    ],
+    "1": [
+      97,
+      150,
+      160
+    ],
+    "-2": [
+      128,
+      112,
+      69
+    ]
+  },
+  "times_nomes": {
+    "0": "Flamengo",
+    "1": "Criciúma",
+    "-2": "outros"
+  },
+  "times_invertidos": false
+}

@@ -1,0 +1,24 @@
+{
+  "unidade": "m",
+  "raio_posse": 2.0,
+  "direcao_ataque": {
+    "0": "direita",
+    "1": "esquerda"
+  },
+  "quadros_com_bola": 3426,
+  "quadros_total": 4441,
+  "time0": {
+    "posse_pct": 58.1,
+    "passes": 22,
+    "passes_certos": 13,
+    "precisao_pct": 59.1,
+    "distancia_total": 2808.3
+  },
+  "time1": {
+    "posse_pct": 41.9,
+    "passes": 26,
+    "passes_certos": 15,
+    "precisao_pct": 57.7,
+    "distancia_total": 2438.5
+  }
+}
